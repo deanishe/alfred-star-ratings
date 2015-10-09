@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>net.deanishe.alfred-star-ratings</string>
+	<key>connections</key>
+	<dict>
+		<key>00002E96-551B-4390-861D-C0420355D48A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>0819D181-0718-4187-B3D1-F502C487ED1F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>00002E96-551B-4390-861D-C0420355D48A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>2135D88C-A2DF-499B-9000-161991F52159</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>96C32B63-156F-4230-8F4F-E80FDED5E08B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>28B054B9-DC46-48BD-9155-83C8E0A20252</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>2C08B390-EECA-4F30-8031-217D5294CECE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>37C545FC-6FE9-4F7A-9CAC-26D3AE3A3B9E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2C08B390-EECA-4F30-8031-217D5294CECE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>750618A6-78E6-4973-8EB5-40B487BA9F84</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8B7D4E8C-BA34-4D39-B307-D7E16427AA6D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>81DC67DD-10C4-4289-A733-08ED200DB43B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>28B054B9-DC46-48BD-9155-83C8E0A20252</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>8B7D4E8C-BA34-4D39-B307-D7E16427AA6D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>92C2E7A5-71E9-4717-95AD-B2A7CC31E10D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A4217E7B-F34C-4AB0-9401-B9508BEE8736</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>96C30921-9BF5-485F-863B-8C689F317AE2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CE1F45CD-49E0-423C-A98C-31B9E9B56AE9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>96C32B63-156F-4230-8F4F-E80FDED5E08B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>B7184545-1DDA-4AF8-9906-8668E14C5A8D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C24A7DA3-D275-4577-A181-FB0CD57679AB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>C24A7DA3-D275-4577-A181-FB0CD57679AB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>CE1F45CD-49E0-423C-A98C-31B9E9B56AE9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Dean Jackson</string>
+	<key>description</key>
+	<string>Apply star ratings to files</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Star Ratings</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Rate 0 Stars</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>750618A6-78E6-4973-8EB5-40B487BA9F84</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#encoding: utf-8
+
+import subprocess
+
+rating = '0'
+filepaths = "{query}".split('\t')
+
+cmd = ['/usr/bin/python', './rate.py', '-r', rating] + filepaths
+
+subprocess.call(cmd)
+
+fileword = ('Files', 'File')[len(filepaths) == 1]
+starword = ('stars', 'star')[rating == '1']
+
+print('{} rated {} {}'.format(fileword, rating, starword))</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>8B7D4E8C-BA34-4D39-B307-D7E16427AA6D</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#encoding: utf-8
+
+import subprocess
+
+rating = '1'
+filepaths = "{query}".split('\t')
+
+cmd = ['/usr/bin/python', './rate.py', '-r', rating] + filepaths
+
+subprocess.call(cmd)
+
+fileword = ('Files', 'File')[len(filepaths) == 1]
+starword = ('stars', 'star')[rating == '1']
+
+print('{} rated {} {}'.format(fileword, rating, starword))</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2C08B390-EECA-4F30-8031-217D5294CECE</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Rate 1 Star</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>37C545FC-6FE9-4F7A-9CAC-26D3AE3A3B9E</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#encoding: utf-8
+
+import subprocess
+
+rating = '2'
+filepaths = "{query}".split('\t')
+
+cmd = ['/usr/bin/python', './rate.py', '-r', rating] + filepaths
+
+subprocess.call(cmd)
+
+fileword = ('Files', 'File')[len(filepaths) == 1]
+starword = ('stars', 'star')[rating == '1']
+
+print('{} rated {} {}'.format(fileword, rating, starword))</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>CE1F45CD-49E0-423C-A98C-31B9E9B56AE9</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Rate 2 Stars</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>96C30921-9BF5-485F-863B-8C689F317AE2</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Rate 3 Stars</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>B7184545-1DDA-4AF8-9906-8668E14C5A8D</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>output</key>
+				<integer>0</integer>
+				<key>removeextension</key>
+				<false/>
+				<key>sticky</key>
+				<false/>
+				<key>title</key>
+				<string>{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#encoding: utf-8
+
+import subprocess
+
+rating = '3'
+filepaths = "{query}".split('\t')
+
+cmd = ['/usr/bin/python', './rate.py', '-r', rating] + filepaths
+
+subprocess.call(cmd)
+
+fileword = ('Files', 'File')[len(filepaths) == 1]
+starword = ('stars', 'star')[rating == '1']
+
+print('{} rated {} {}'.format(fileword, rating, starword))</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C24A7DA3-D275-4577-A181-FB0CD57679AB</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Rate 4 Stars</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>2135D88C-A2DF-499B-9000-161991F52159</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#encoding: utf-8
+
+import subprocess
+
+rating = '4'
+filepaths = "{query}".split('\t')
+
+cmd = ['/usr/bin/python', './rate.py', '-r', rating] + filepaths
+
+subprocess.call(cmd)
+
+fileword = ('Files', 'File')[len(filepaths) == 1]
+starword = ('stars', 'star')[rating == '1']
+
+print('{} rated {} {}'.format(fileword, rating, starword))</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>96C32B63-156F-4230-8F4F-E80FDED5E08B</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#encoding: utf-8
+
+import subprocess
+
+rating = '5'
+filepaths = "{query}".split('\t')
+
+cmd = ['/usr/bin/python', './rate.py', '-r', rating] + filepaths
+
+subprocess.call(cmd)
+
+fileword = ('Files', 'File')[len(filepaths) == 1]
+starword = ('stars', 'star')[rating == '1']
+
+print('{} rated {} {}'.format(fileword, rating, starword))</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>00002E96-551B-4390-861D-C0420355D48A</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Rate 5 Stars</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>0819D181-0718-4187-B3D1-F502C487ED1F</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Clear Star Rating</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>81DC67DD-10C4-4289-A733-08ED200DB43B</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#encoding: utf-8
+
+import subprocess
+
+filepaths = "{query}".split('\t')
+
+cmd = ['/usr/bin/python', './rate.py', '-c'] + filepaths
+
+subprocess.call(cmd)
+
+noun = ('ratings', 'rating')[len(filepaths) == 1]
+
+print('File {} cleared'.format(noun))</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>28B054B9-DC46-48BD-9155-83C8E0A20252</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>.r</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading files from Finder…</string>
+				<key>script</key>
+				<string>export LC_CTYPE=en_GB.UTF-8
+
+/usr/bin/python view.py "{query}"</string>
+				<key>subtext</key>
+				<string>View star ratings of selected files</string>
+				<key>title</key>
+				<string>Star Ratings</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>A4217E7B-F34C-4AB0-9401-B9508BEE8736</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>hotkey</key>
+				<integer>15</integer>
+				<key>hotmod</key>
+				<integer>1310720</integer>
+				<key>hotstring</key>
+				<string>R</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedApps</key>
+				<array>
+					<string>com.apple.finder</string>
+				</array>
+				<key>relatedAppsMode</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>92C2E7A5-71E9-4717-95AD-B2A7CC31E10D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>00002E96-551B-4390-861D-C0420355D48A</key>
+		<dict>
+			<key>ypos</key>
+			<real>610</real>
+		</dict>
+		<key>0819D181-0718-4187-B3D1-F502C487ED1F</key>
+		<dict>
+			<key>ypos</key>
+			<real>610</real>
+		</dict>
+		<key>2135D88C-A2DF-499B-9000-161991F52159</key>
+		<dict>
+			<key>ypos</key>
+			<real>490</real>
+		</dict>
+		<key>28B054B9-DC46-48BD-9155-83C8E0A20252</key>
+		<dict>
+			<key>ypos</key>
+			<real>730</real>
+		</dict>
+		<key>2C08B390-EECA-4F30-8031-217D5294CECE</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>37C545FC-6FE9-4F7A-9CAC-26D3AE3A3B9E</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>70A7974A-2C80-4F8B-A12C-619D1A4AABC6</key>
+		<dict>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+		<key>750618A6-78E6-4973-8EB5-40B487BA9F84</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>81DC67DD-10C4-4289-A733-08ED200DB43B</key>
+		<dict>
+			<key>ypos</key>
+			<real>730</real>
+		</dict>
+		<key>8B7D4E8C-BA34-4D39-B307-D7E16427AA6D</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>92C2E7A5-71E9-4717-95AD-B2A7CC31E10D</key>
+		<dict>
+			<key>ypos</key>
+			<real>850</real>
+		</dict>
+		<key>96C30921-9BF5-485F-863B-8C689F317AE2</key>
+		<dict>
+			<key>ypos</key>
+			<real>250</real>
+		</dict>
+		<key>96C32B63-156F-4230-8F4F-E80FDED5E08B</key>
+		<dict>
+			<key>ypos</key>
+			<real>490</real>
+		</dict>
+		<key>A4217E7B-F34C-4AB0-9401-B9508BEE8736</key>
+		<dict>
+			<key>ypos</key>
+			<real>850</real>
+		</dict>
+		<key>B7184545-1DDA-4AF8-9906-8668E14C5A8D</key>
+		<dict>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+		<key>C24A7DA3-D275-4577-A181-FB0CD57679AB</key>
+		<dict>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+		<key>CE1F45CD-49E0-423C-A98C-31B9E9B56AE9</key>
+		<dict>
+			<key>ypos</key>
+			<real>250</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
