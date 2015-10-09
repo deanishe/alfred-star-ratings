@@ -64,6 +64,11 @@ ICONS_RATING = {
 ICON_ERROR = 'icons/error.png'
 ICON_UNRATED = 'icons/unrated.png'
 
+HELP_URL = 'https://github.com/deanishe/alfred-star-ratings#alfred-star-ratings'
+UPDATE_SETTINGS = {
+    'github_slug': 'deanishe/alfred-star-ratings'
+}
+
 
 def finder_selection():
     """Return list of files selected in Finder."""
@@ -143,6 +148,7 @@ def main(wf):
 
 
 if __name__ == '__main__':
-    wf = Workflow()
+    wf = Workflow(update_settings=UPDATE_SETTINGS,
+                  help_url=HELP_URL)
     log = wf.logger
     sys.exit(wf.run(main))
