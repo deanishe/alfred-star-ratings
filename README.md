@@ -52,18 +52,19 @@ It relies on the following open-source resources:
 
 
 [alfredapp]: https://www.alfredapp.com
-[alfredforum]: https://www.alfredforum.com/
+[alfredforum]: http://www.alfredforum.com/topic/8132-star-ratings-rate-your-files-like-in-itunes/
 [aw]: http://www.deanishe.net/alfred-workflow/
 [awesome]: http://fortawesome.github.io/Font-Awesome/icons/
 [biplist]: https://bitbucket.org/wooster/biplist
 [bl-licence]: src/BIPLIST-LICENCE.txt
 [deanishe]: https://twitter.com/deanishe
-[demo]: demo.gif "Animated demo of Alfred Star Ratings"
+[demo]: https://raw.githubusercontent.com/deanishe/alfred-star-ratings/master/demo.gif "Animated demo of Alfred Star Ratings"
 [gandy]: https://twitter.com/davegandy
 [gh-issues]: https://github.com/deanishe/alfred-star-ratings/issues
 [gh-releases]: https://github.com/deanishe/alfred-star-ratings/releases/latest
-[licence]: LICENCE
+[licence]: src/LICENCE.txt
 [mit]: http://opensource.org/licenses/mit-license.html
+[packal]: http://www.packal.org/workflow/star-ratings
 [sil]: http://scripts.sil.org/OFL
 [smartfolders]: https://github.com/deanishe/alfred-smartfolders
 [wooster]: http://andrewwooster.com/
