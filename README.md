@@ -1,6 +1,6 @@
 ## Alfred Star Ratings ##
 
-View and set star ratings for your files in [Alfred 2][alfredapp].
+View and set star ratings for your files in [Alfred 2 & 3][alfredapp].
 
 ![Workflow demo animation][demo]
 
